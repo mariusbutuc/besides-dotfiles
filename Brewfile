@@ -10,6 +10,7 @@ doctor
 
 ## development
 install bash-completion
+install heroku-toolbelt
 install git
 install git-flow
 install postgres
