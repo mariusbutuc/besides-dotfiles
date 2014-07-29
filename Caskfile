@@ -17,6 +17,7 @@ cask install flowdoc
 cask install freemind
 cask install gitx-rowanj
 cask install google-drive
+cask install pgadmin3
 # cask install rstudio
 cask install screenhero
 # cask install scroll-reverser
