@@ -18,6 +18,7 @@ cask install freemind
 cask install gitx-rowanj
 cask install google-drive
 cask install pgadmin3
+cask install robomongo
 # cask install rstudio
 # cask install scroll-reverser
 cask install skype
