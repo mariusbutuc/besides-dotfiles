@@ -13,7 +13,7 @@ cask install sublime-text
 cask install anvil
 cask install dash
 cask install firefox
-cask install flowdoc
+cask install flowdock
 cask install freemind
 cask install gitx-rowanj
 cask install google-drive
