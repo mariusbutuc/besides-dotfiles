@@ -1,5 +1,5 @@
 ## http://caskroom.io/
-install caskroom/cask/brew-cask
+install caskroom/cask/brew-cask || true
 cask update
 
 ## bare necessities... in that order
