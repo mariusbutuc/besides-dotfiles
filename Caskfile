@@ -1,5 +1,6 @@
 ## http://caskroom.io/
 install caskroom/cask/brew-cask || true
+upgrade brew-cask || true
 cask update
 
 ## bare necessities... in that order
@@ -32,10 +33,12 @@ cask install caffeine
 cask install cyberduck
 cask install dropbox
 cask install flux
-cask install lastfm
+# cask install lastfm
 cask install rescuetime
 # cask install silverlight
 cask install skitch
 cask install the-unarchiver
 # cask install transmission
 # cask install vlc
+
+cleanup
