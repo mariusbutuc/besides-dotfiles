@@ -9,6 +9,7 @@ cask install iterm2
 cask install xquartz
 cask install shiftit
 cask install sublime-text
+cask install tomighty
 
 ## development, part deux
 cask install anvil
