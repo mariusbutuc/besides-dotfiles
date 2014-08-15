@@ -14,8 +14,8 @@ install heroku-toolbelt
 install git
 install git-flow
 install postgres
-install qt # capybara-webkit dependency
-# install tmux
+install qt
+install tmux
 install vim
 
 ## getting MEAN
@@ -26,7 +26,6 @@ install node
 ## science
 tap homebrew/science
 install homebrew/science/r
-# install graphviz
 
 linkapps
 cleanup

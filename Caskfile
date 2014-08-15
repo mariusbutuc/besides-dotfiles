@@ -21,25 +21,19 @@ cask install gitx-rowanj
 cask install google-drive
 cask install pgadmin3
 cask install robomongo
-# cask install rstudio
-# cask install scroll-reverser
 cask install skype
-# cask install titanium-studio
 cask install vagrant
 cask install virtualbox
 
 ## personal favourites
-# cask install adobe-photoshop-lightroom
+cask install adobe-photoshop-lightroom
 cask install caffeine
 cask install cyberduck
 cask install dropbox
 cask install flux
-# cask install lastfm
 cask install rescuetime
-# cask install silverlight
 cask install skitch
 cask install the-unarchiver
-# cask install transmission
-# cask install vlc
+cask install transmission
 
 cleanup
