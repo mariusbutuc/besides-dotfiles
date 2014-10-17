@@ -3,37 +3,35 @@ install caskroom/cask/brew-cask || true
 upgrade brew-cask || true
 cask update
 
-## bare necessities... in that order
-cask install google-chrome
-cask install iterm2
-cask install xquartz
-cask install shiftit
-cask install sublime-text
-cask install tomighty
-
-## development, part deux
-cask install anvil
-cask install dash
-cask install firefox
-cask install flowdock
-cask install freemind
-cask install gitx-rowanj
-cask install google-drive
-cask install pgadmin3
-cask install robomongo
-cask install skype
-cask install vagrant
-cask install virtualbox
-
-## personal favourites
 cask install adobe-photoshop-lightroom
+cask install anvil
 cask install caffeine
 cask install cyberduck
+cask install dash
 cask install dropbox
+cask install firefox
+cask install flowdock
 cask install flux
+cask install freemind
+cask install gitx-rowanj
+cask install google-chrome
+cask install google-drive
+cask install istat-menus
+cask install iterm2
+cask install pgadmin3
 cask install rescuetime
+cask install robomongo
+cask install rstudio
+cask install shiftit
 cask install skitch
+cask install skype
+cask install sublime-text
 cask install the-unarchiver
+cask install tomighty
 cask install transmission
+cask install vagrant
+cask install virtualbox
+cask install vlc
+cask install xquartz
 
 cleanup
