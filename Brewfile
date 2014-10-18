@@ -9,6 +9,7 @@ doctor
 # upgrade
 
 ## development
+install awscli
 install bash-completion
 install heroku-toolbelt
 install git
