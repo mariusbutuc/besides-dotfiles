@@ -6,10 +6,11 @@ cask update
 ## bare necessities... in that order
 cask install google-chrome
 cask install iterm2
-cask install xquartz
+cask install screenhero
 cask install shiftit
 cask install sublime-text
 cask install tomighty
+cask install xquartz
 
 ## development, part deux
 cask install anvil
