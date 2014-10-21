@@ -14,6 +14,7 @@ cask install xquartz
 
 ## development, part deux
 cask install anvil
+cask install atom
 cask install dash
 cask install firefox
 cask install flowdock
