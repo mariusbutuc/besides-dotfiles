@@ -15,6 +15,7 @@ cask install gitx-rowanj
 cask install google-chrome
 cask install google-drive
 cask install iterm2
+cask install java
 cask install pgadmin3
 cask install robomongo
 cask install screenhero
