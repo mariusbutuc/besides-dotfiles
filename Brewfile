@@ -11,9 +11,12 @@ doctor
 ## development
 install awscli
 install bash-completion
-install heroku-toolbelt
 install git
 install git-flow
+install heroku-toolbelt
+install ngrok
+# tap homebrew/science
+install r
 install postgres
 install qt
 install tmux
@@ -23,10 +26,6 @@ install vim
 install mongodb
 install mongoose
 install node
-
-## science
-tap homebrew/science
-install homebrew/science/r
 
 linkapps
 cleanup
