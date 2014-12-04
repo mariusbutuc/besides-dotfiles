@@ -1,0 +1,9 @@
+{
+  "installed_packages": [
+    "GhostText",
+    "Git",
+    "GitGutter",
+    "Pretty JSON",
+    "SideBarEnhancements"
+  ]
+}
