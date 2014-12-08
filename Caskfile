@@ -11,13 +11,13 @@ cask install dash
 cask install firefox
 cask install flowdock
 cask install freemind
-cask install gitx-rowanj
 cask install google-chrome
 cask install google-drive
 cask install iterm2
 cask install java
 cask install pgadmin3
 cask install robomongo
+cask install rowanj-gitx
 cask install screenhero
 cask install shiftit
 cask install skype
