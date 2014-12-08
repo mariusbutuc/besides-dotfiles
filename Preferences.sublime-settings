@@ -2,6 +2,7 @@
   "bold_folder_labels": true,
   "carret_style": "phase",
   "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+  "drag_text": false,
   "draw_white_space": "selection",
   "ensure_newline_at_eof_on_save": true,
   "folder_exclude_patterns": [
@@ -17,6 +18,7 @@
   "rulers": [
     80
   ],
+  "scroll_past_end": true,
   "tab_size": 2,
   "translate_tabs_to_spaces": true,
   "trim_trailing_white_space_on_save": true
