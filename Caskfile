@@ -4,6 +4,8 @@ update || true
 upgrade brew-cask || true
 cask update
 
+tap caskroom/versions
+
 ## bare necessities... in that order
 cask install anvil
 cask install atom
@@ -21,7 +23,7 @@ cask install rowanj-gitx
 cask install screenhero
 cask install shiftit
 cask install skype
-cask install sublime-text
+cask install sublime-text3
 cask install tomighty
 cask install vagrant
 cask install virtualbox
