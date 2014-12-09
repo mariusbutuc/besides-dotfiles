@@ -1,8 +1,12 @@
 {
   "installed_packages": [
+    "Alignment",
     "GhostText",
     "Git",
     "GitGutter",
+    "Markdown Extended",
+    "Markdown Preview",
+    "Monokai Extended",
     "Pretty JSON",
     "SideBarEnhancements"
   ]
