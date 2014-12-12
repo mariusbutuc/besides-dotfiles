@@ -23,10 +23,14 @@ cask install rowanj-gitx
 cask install screenhero
 cask install shiftit
 cask install skype
+cask install slack
 cask install sublime-text3
+cask install tableau
 cask install tomighty
 cask install vagrant
 cask install virtualbox
+cask install viscosity
+cask install vmware-fusion6
 cask install xquartz
 
 ## personal favourites
