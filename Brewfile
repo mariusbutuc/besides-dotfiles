@@ -14,6 +14,7 @@ install bash-completion
 install git
 install git-flow
 install heroku-toolbelt
+install mitmproxy
 install ngrok
 # tap homebrew/science
 install r
