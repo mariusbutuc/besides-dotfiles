@@ -27,6 +27,7 @@ cask install skype
 cask install slack
 cask install sublime-text3
 cask install tableau
+cask install toggldesktop
 cask install tomighty
 cask install vagrant
 cask install virtualbox
