@@ -11,6 +11,7 @@ doctor
 ## development
 install awscli
 install bash-completion
+install chruby
 install git
 install git-flow
 install heroku-toolbelt
