@@ -19,6 +19,7 @@ install mitmproxy
 install ngrok
 # tap homebrew/science
 install r
+install ruby-install
 install postgres
 install qt
 install tmux
