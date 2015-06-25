@@ -1,0 +1,4 @@
+[
+  { "keys": ["ctrl+shift+."], "command": "erb" },
+  { "keys": ["ctrl+f5"], "command": "refresh_folder_list"}
+]
