@@ -21,6 +21,7 @@ install postgres
 install qt
 install r # tap homebrew/science
 install ruby-install
+install spotify
 install tmux
 install vim
 
