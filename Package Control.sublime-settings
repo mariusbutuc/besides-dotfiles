@@ -1,18 +1,29 @@
 {
-  "installed_packages": [
-    "Alignment",
-    "GhostText",
-    "Git",
-    "GitGutter",
-    "Jade",
-    "JavaScriptNext - ES6 Syntax",
-    "JsFormat",
-    "JSHint",
-    "Markdown Extended",
-    "Markdown Preview",
-    "Monokai Extended",
-    "Pretty JSON",
-    "SideBarEnhancements",
-    "Theme - Soda"
-  ]
+    "bootstrapped": true,
+    "installed_packages":
+    [
+        "Alignment",
+        "Babel",
+        "DashDoc",
+        "Elixir",
+        "Elm Language Support",
+        "Emmet",
+        "GhostText",
+        "GitGutter",
+        "HTML-CSS-JS Prettify",
+        "JavaScriptNext - ES6 Syntax",
+        "JsFormat",
+        "JSHint",
+        "Markdown Extended",
+        "Markdown Preview",
+        "Package Control",
+        "Pretty JSON",
+        "SFTP",
+        "SideBarEnhancements",
+        "SublimeERB",
+        "SublimeLinter",
+        "SublimeLinter-annotations",
+        "SublimeLinter-rubocop",
+        "SublimeREPL"
+    ]
 }

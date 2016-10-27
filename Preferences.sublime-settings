@@ -1,23 +1,28 @@
 {
   "bold_folder_labels": true,
   "carret_style": "phase",
-  "color_scheme": "Packages/Monokai Extended/Monokai Extended Bright.tmTheme",
+  "color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
   "drag_text": false,
   "draw_white_space": "selection",
   "ensure_newline_at_eof_on_save": true,
-  "folder_exclude_patterns": [
+  "folder_exclude_patterns":
+  [
     ".git",
+    "doc",
     "tmp/cache"
   ],
-  "font_size": 14,
+  "font_size": 13,
   "highlight_line": true,
-  "ignored_packages": [
+  "ignored_packages":
+  [
     "Vintage"
   ],
   "line_padding_bottom": 1,
   "line_padding_top": 1,
-  "rulers": [
-    80
+  "rulers":
+  [
+    80,
+    120
   ],
   "scroll_past_end": true,
   "soda_classic_tabs": true,
