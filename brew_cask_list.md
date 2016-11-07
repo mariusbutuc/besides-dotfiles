@@ -1,15 +1,17 @@
   - [x] 1password
   - [x] caffeine
   - [x] dash
-  - [ ] dropbox
+  - [x] dropbox
   - [x] flux
-  - [x] freemind
+  - [ ] freemind
   - [x] google-chrome
-  - [ ] istat-menus
+  - [x] istat-menus
   - [x] iterm2
+  - [x] microsoft-office
   - [x] psequel
   - [x] rowanj-gitx
   - [x] shiftit
+  - [x] skype
   - [x] slack
   - [x] spotify
   - [x] sublime-text
