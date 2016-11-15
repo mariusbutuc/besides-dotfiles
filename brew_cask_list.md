@@ -2,6 +2,7 @@
   - [x] caffeine
   - [x] dash
   - [x] dropbox
+  - [x] elm-platform
   - [x] flux
   - [ ] freemind
   - [x] google-chrome
@@ -11,6 +12,7 @@
   - [x] psequel
   - [x] rowanj-gitx
   - [x] shiftit
+  - [x] skitch
   - [x] skype
   - [x] slack
   - [x] spotify
