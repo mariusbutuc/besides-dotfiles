@@ -1,7 +1,8 @@
 - [x] bash-completion
 - [x] chruby
-- [ ] elixir
+- [x] elixir
 - [x] git
+- [x] grep
 - [x] heroku
 - [x] postgresql
 - [x] python
