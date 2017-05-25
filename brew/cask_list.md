@@ -1,5 +1,6 @@
   - [x] 1password
   - [x] caffeine
+  - [x] ccmenu
   - [x] dash
   - [x] dropbox
   - [x] elm-platform
