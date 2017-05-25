@@ -11,7 +11,7 @@
   - [x] istat-menus
   - [x] iterm2
   - [x] microsoft-office
-  - [x] psequel
+  - [x] postico
   - [x] rowanj-gitx
   - [x] shiftit
   - [x] skitch
