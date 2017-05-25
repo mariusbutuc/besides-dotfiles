@@ -13,6 +13,7 @@
   - [x] microsoft-office
   - [x] postico
   - [x] rowanj-gitx
+  - [x] screenhero
   - [x] shiftit
   - [x] skitch
   - [x] skype
