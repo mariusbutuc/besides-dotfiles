@@ -1,4 +1,5 @@
   - [x] 1password
+  - [x] bartender
   - [x] caffeine
   - [x] ccmenu
   - [x] dash
