@@ -21,4 +21,4 @@
   - [x] spotify
   - [x] sublime-text
   - [x] the-unarchiver
-  - [ ] tomighty
+  - [x] tomighty
