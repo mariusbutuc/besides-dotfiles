@@ -3,7 +3,6 @@
   - [x] caffeine
   - [x] ccmenu
   - [x] dash
-  - [x] droidid
   - [x] dropbox
   - [x] elm-platform
   - [ ] freemind
