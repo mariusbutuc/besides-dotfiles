@@ -6,7 +6,6 @@
   - [x] droidid
   - [x] dropbox
   - [x] elm-platform
-  - [x] flux
   - [ ] freemind
   - [x] google-chrome
   - [x] istat-menus
