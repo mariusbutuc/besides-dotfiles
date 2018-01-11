@@ -3,7 +3,7 @@
 - [x] elixir
 - [x] git
 - [x] grep
-- [x] heroku
+- [x] jq
 - [x] postgresql
 - [x] python
   - [x] `xcode-select --install`
