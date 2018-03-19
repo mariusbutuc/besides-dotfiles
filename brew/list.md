@@ -1,12 +1,8 @@
+- [x] asdf
 - [x] bash-completion
-- [x] chruby
-- [x] elixir
 - [x] git
 - [x] grep
 - [x] jq
 - [x] postgresql
-- [x] python
-  - [x] `xcode-select --install`
-- [x] ruby-install
 - [x] tmux
 - [x] vim
