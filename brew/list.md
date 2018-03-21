@@ -6,5 +6,6 @@
 - [x] grep
 - [x] jq
 - [x] postgresql
+- [x] tig
 - [x] tmux
 - [x] vim
