@@ -1,6 +1,7 @@
 - [x] asdf
 - [x] bash-completion
 - [x] bash-git-prompt
+- [x] exercism
 - [x] git
 - [x] grep
 - [x] jq
