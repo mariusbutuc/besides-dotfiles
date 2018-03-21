@@ -5,6 +5,7 @@
   - [x] dash
   - [x] dropbox
   - [x] elm-platform
+  - [x] firefox
   - [ ] freemind
   - [x] google-chrome
   - [x] istat-menus
