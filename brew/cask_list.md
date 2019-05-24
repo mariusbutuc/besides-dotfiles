@@ -12,6 +12,7 @@
   - [x] iterm2
   - [x] microsoft-office
   - [x] postico
+  - [x] qlmarkdown
   - [x] rowanj-gitx
   - [x] shiftit
   - [x] skitch
