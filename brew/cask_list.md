@@ -13,3 +13,4 @@
   - [x] spotify
   - [x] the-unarchiver
   - [x] tomighty
+  - [x] visual-studio-code
