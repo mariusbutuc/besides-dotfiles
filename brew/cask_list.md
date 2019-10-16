@@ -8,6 +8,7 @@
   - [x] iterm2
   - [x] qlmarkdown
   - [x] rowanj-gitx
+  - [x] shiftit
   - [x] skitch
   - [x] slack
   - [x] spotify
