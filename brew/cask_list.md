@@ -1,5 +1,6 @@
   - [x] 1password
   - [x] bartender
+  - [x] clipy
   - [x] dropbox
   - [x] elm-platform
   - [ ] freemind
