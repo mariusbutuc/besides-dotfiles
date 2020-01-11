@@ -6,7 +6,6 @@ $ npm list -g --depth 0
 ├── coffeelint-callback-handle-error@1.0.3
 ├── coffeescope2@0.5.1
 ├── coffeescript@1.12.7
-├── cypress@3.5.0
 ├── eslint@6.4.0
 ├── nodemon@1.19.4
 ├── npm@6.12.0
