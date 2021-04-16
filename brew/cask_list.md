@@ -2,6 +2,7 @@
   - [x] bartender
   - [x] dropbox
   - [x] elm-platform
+  - [x] font-fira-code
   - [x] google-chrome
   - [x] istat-menus
   - [x] iterm2
