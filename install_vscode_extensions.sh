@@ -2,23 +2,20 @@
 
 # code --list-extensions
 declare -a extensions=(
-  "corpsyal.coffee-auto-indent"
+  "arcanis.vscode-zipfs"
   "dbaeumer.vscode-eslint"
+  "dsznajder.es7-react-js-snippets"
   "eamodio.gitlens"
   "esbenp.prettier-vscode"
-  "joelday.docthis"
-  "johnpapa.vscode-peacock"
-  "karigari.chat"
-  "lkytal.coffeelinter"
+  "GraphQL.vscode-graphql"
+  "Gruntfuggly.todo-tree"
   "mechatroner.rainbow-csv"
-  "ms-vscode.vscode-typescript-tslint-plugin"
   "ms-vsliveshare.vsliveshare"
   "ms-vsliveshare.vsliveshare-audio"
   "ms-vsliveshare.vsliveshare-pack"
-  "Shan.code-settings-sync"
+  "msjsdiag.debugger-for-chrome"
+  "Orta.vscode-jest"
   "stkb.rewrap"
-  "sysoev.language-stylus"
-  "sysoev.vscode-open-in-github"
   "tokoph.ghosttext"
 )
 
